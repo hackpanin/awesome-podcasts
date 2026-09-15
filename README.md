@@ -1,4 +1,4 @@
-# Awesome list of Important Podcasts for software engineers
+cuando me enojo no queda de otra que pillarlos por el culo frecuencia en el cula >>># Awesome list of Important Podcasts for software engineers
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of podcasts which are helpful for software engineers/programmers.
